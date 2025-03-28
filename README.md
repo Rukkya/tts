@@ -33,7 +33,7 @@ Google Text-to-Speech (gTTS) converts text into speech using Google's API. The p
 
 ## 🔧 Installation
 ```bash
-pip install gtts gradio PyPDF2 python-docx pydub
+pip install -r requirements.txt
 ```
 
 ## 📌 Usage
@@ -50,7 +50,6 @@ This will launch a **web-based UI** where you can enter text or upload files for
 │── main.py             # Main Python script
 │── requirements.txt   # Required dependencies
 │── README.md          # Documentation
-│── example_files/     # Sample input files (TXT, PDF, DOCX)
 ```
 
 ## 🌍 Supported Languages
