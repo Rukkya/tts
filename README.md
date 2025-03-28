@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ## 📌 Usage
 Run the application:
 ```bash
-python app.py
+python main.py
 ```
 
 This will launch a **web-based UI** where you can enter text or upload files for speech synthesis.
