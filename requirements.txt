@@ -1,0 +1,6 @@
+gradio
+gtts
+pydub
+docx
+python-docx
+PyPDF2
