@@ -47,7 +47,7 @@ This will launch a **web-based UI** where you can enter text or upload files for
 ## 🖥️ Project Structure
 ```
 /tts_project
-│── app.py             # Main Python script
+│── main.py             # Main Python script
 │── requirements.txt   # Required dependencies
 │── README.md          # Documentation
 │── example_files/     # Sample input files (TXT, PDF, DOCX)
